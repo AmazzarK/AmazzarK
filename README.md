@@ -87,5 +87,7 @@ Senior engineering roles and founding engineer conversations where architecture 
 [LinkedIn](https://ma.linkedin.com/in/amazzar-kaoutar) · [Email](amazzar.consult@gmail.com)
 
 ---
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
+---
 <sub>Production experience. References available.</sub>
