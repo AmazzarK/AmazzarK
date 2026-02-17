@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,100:326CE5&height=150&section=header&text=Fullstack%20%26%20AI%20Engineer&fontSize=40)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C47FF,100:326CE5&height=150&section=header&text=Fullstack%20&%20AI%20Engineer&fontSize=40) 
 # Fullstack & AI Engineer · Production Systems
 
 &nbsp;
